@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;.btn-primary{@apply bg-indigo-600 text-white px-3 py-2 rounded hover:bg-indigo-700;}.btn-secondary{@apply bg-gray-100 text-gray-800 px-3 py-2 rounded hover:bg-gray-200;}.btn-danger{@apply bg-red-600 text-white px-2 py-1 rounded hover:bg-red-700;}
