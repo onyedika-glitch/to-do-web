@@ -187,7 +187,7 @@
 <body>
   <nav>
     <div class="max-w-4xl">
-      <h1>To-Do — Modern AJAX</h1>
+      <h1>To-Do — Website</h1>
     </div>
   </nav>
 
